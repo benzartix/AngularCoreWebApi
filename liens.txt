@@ -1,0 +1,3 @@
+http://www.codaffection.com/asp-net-core-article/angular-crud-with-asp-net-core-web-api/?fbclid=IwAR3YTbdAGzlTrAuqDyXKhB8SozzF60ZsULmv9DJ10J1lR5xHIZ_gx0zGr9A
+https://www.youtube.com/watch?v=fom80TujpYQ&feature=youtu.be
+https://www.npmjs.com/package/ngx-toastr

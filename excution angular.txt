@@ -1,0 +1,20 @@
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser
+
+ng g c component_name --spec false
+****
+1/install bootsrap et fontawesome
+npm install bootstrap
+ng add @fortawesome/angular-fontawesome@0.6.0
+
+2/ajouter css au style.css pour bootstrap 
+
+3/ pour créer des composant et des service sans spec et css 
+ng g c --skipTests=true payment-details --s
+ng g c --skipTests=true payment-details/payment-detail --s
+ng g c --skipTests=true payment-details/payment-detail-list --s
+ng g s --skipTests=true shared/payment-detail 
+ng g cl --skipTests=true shared/payment-detail --type=model
+
+
+
+

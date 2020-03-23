@@ -1,0 +1,14 @@
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\bin\Debug\netcoreapp2.2\PaymentExemple.deps.json
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\bin\Debug\netcoreapp2.2\PaymentExemple.runtimeconfig.json
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\bin\Debug\netcoreapp2.2\PaymentExemple.runtimeconfig.dev.json
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\bin\Debug\netcoreapp2.2\PaymentExemple.dll
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\bin\Debug\netcoreapp2.2\PaymentExemple.pdb
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\obj\Debug\netcoreapp2.2\PaymentExemple.csprojAssemblyReference.cache
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\obj\Debug\netcoreapp2.2\PaymentExemple.csproj.CoreCompileInputs.cache
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\obj\Debug\netcoreapp2.2\PaymentExemple.RazorAssemblyInfo.cache
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\obj\Debug\netcoreapp2.2\PaymentExemple.RazorAssemblyInfo.cs
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\obj\Debug\netcoreapp2.2\PaymentExemple.AssemblyInfoInputs.cache
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\obj\Debug\netcoreapp2.2\PaymentExemple.AssemblyInfo.cs
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\obj\Debug\netcoreapp2.2\PaymentExemple.RazorTargetAssemblyInfo.cache
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\obj\Debug\netcoreapp2.2\PaymentExemple.dll
+C:\Projets\Angular_DotNet_WebApis_PaymentExemple\PaymentExemple\PaymentExemple\obj\Debug\netcoreapp2.2\PaymentExemple.pdb

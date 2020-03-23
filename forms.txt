@@ -1,0 +1,25 @@
+<form #carModelForm="ngForm">
+    <label>Card Owner Name</label>
+    <input name="CardOwnerName" [(ngModel)]="carModel.CardOwnerName" required #trackName>
+    {{trackName.className}}
+  
+    <label>Card Number</label>
+    <input name="CardNumber" [(ngModel)]="carModel.CardNumber" required #trackName>
+    <br />
+
+    <label>Expiration Date</label>
+    <input name="ExpirationDate" [(ngModel)]="carModel.ExpirationDate" required #trackName>
+    <br />
+
+    <label>CVV</label>
+    <input name="CVV" [(ngModel)]="carModel.CVV" required #trackName>
+    <br />
+    
+    <input type="submit" value="Save">
+  </form>
+  
+  <pre>{{ getCurrentModel() }}</pre>
+  <pre>{{carModelForm.value | json}}</pre>
+  <pre>{{carModelForm.valid}}</pre>
+  
+  
